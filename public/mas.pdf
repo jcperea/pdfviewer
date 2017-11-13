@@ -1,0 +1,1934 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Range[0 1 0 1 0 1 0 1]
+/Domain[0 1]
+/FunctionType 4
+/Length 184
+>>
+stream
+{ 0 0 0 0 5 4 roll 0 index 3 -1 roll add 2 1 roll pop dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll }
+endstream
+endobj
+2 0 obj
+<<
+/Range[0 1 0 1 0 1 0 1]
+/Domain[0 1]
+/FunctionType 4
+/Length 184
+>>
+stream
+{ 0 0 0 0 5 4 roll 0 index 6 -1 roll add 5 1 roll pop dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll }
+endstream
+endobj
+3 0 obj
+[/DeviceN[/Cyan]/DeviceCMYK 2 0 R]
+endobj
+4 0 obj
+<<
+/Range[0 1 0 1 0 1 0 1]
+/Domain[0 1 0 1 0 1 0 1]
+/FunctionType 4
+/Length 289
+>>
+stream
+{ 0 0 0 0 8 4 roll 3 index 9 -1 roll add 8 1 roll 2 index 8 -1 roll add 7 1 roll 1 index 7 -1 roll add 6 1 roll 0 index 6 -1 roll add 5 1 roll pop pop pop pop dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll dup 1 gt { pop 1 }
+ if 4 1 roll }
+endstream
+endobj
+5 0 obj
+[/DeviceN[/Cyan/Magenta/Yellow/Black]/DeviceCMYK 4 0 R]
+endobj
+6 0 obj
+<<
+/Range[0 1 0 1 0 1 0 1]
+/Domain[0 1]
+/FunctionType 4
+/Length 16
+>>
+stream
+{ dup dup dup }
+endstream
+endobj
+7 0 obj
+<<
+/Type/XObject
+/FormType 1
+/Length 3955
+/OPI<</2.0<<
+/Version 2
+/Type/OPI
+/Inks/full_color
+/F(Odilon2:TRABAJOS:SANITAS:01.1 L. SANITAS.eps)
+/Overprint false
+/Size[972 408]
+/CropRect[27.992 48.646 972 348.151]
+/IncludedImageQuality 1
+>>
+>>
+/Resources<</ExtGState<</GS1 8 0 R>>/ProcSet[/PDF]>>
+/Subtype/Form
+/BBox[-0.30027 -19.77682 4.55037 1.84578]
+/Name/Fm1
+/Matrix[1 0 0 1 0 0]
+>>
+stream
+/GS1 gs
+1 0 0 0 k
+0.9388 0.1898 m
+0.9388 0.19 0.9044 0.1898 0.8826 0.1901 c
+0.8786 0.1902 0.8728 0.1985 0.8684 0.2171 c
+0.8607 0.258 0.8586 0.277 0.8507 0.3157 c
+0.8484 0.324 0.8454 0.3258 0.8415 0.313 c
+0.8335 0.2879 0.828 0.2682 0.8188 0.2413 c
+0.8138 0.2314 0.8106 0.2249 0.8042 0.2253 c
+0.7969 0.2267 0.79 0.2432 0.7885 0.2711 c
+0.775 0.7016 l
+0.773 0.8332 0.773 0.8574 v
+0.773 0.8616 0.7726 0.8626 0.7721 0.8628 c
+0.7717 0.8628 0.7712 0.8618 0.7712 0.8573 c
+0.7712 0.8457 0.768 0.6338 y
+0.7541 0.134 0.7504 0.0833 v
+0.7492 0.0679 0.7458 0.0557 0.7417 0.0558 c
+0.7382 0.0548 0.7351 0.0631 0.7333 0.0734 c
+0.7303 0.1027 0.7168 0.2357 y
+0.7157 0.2434 0.7137 0.2499 0.7109 0.2499 c
+0.7056 0.2494 0.703 0.2387 0.7007 0.232 c
+0.6955 0.2171 0.6878 0.19 0.6768 0.1901 c
+0.0947 0.1901 l
+0.0947 0.2389 l
+0.6764 0.2392 l
+0.6909 0.245 0.6954 0.282 0.7093 0.2974 c
+0.7171 0.303 0.7237 0.3002 0.729 0.2836 c
+0.7381 0.2571 0.7386 0.1659 0.7393 0.1058 c
+0.7395 0.103 0.7395 0.1019 0.7403 0.1019 c
+0.7412 0.1017 0.7412 0.1057 y
+0.7413 0.0948 0.7412 0.2506 y
+0.7432 0.3141 0.7636 0.8821 y
+0.7644 0.8997 0.769 0.9103 0.7728 0.91 c
+0.7765 0.9101 0.7802 0.8997 0.7814 0.8858 c
+0.7814 0.8858 0.8016 0.2999 y
+0.8017 0.2949 0.8034 0.2886 0.8051 0.2883 c
+0.8075 0.2873 0.8127 0.3055 0.8158 0.3157 c
+0.8251 0.3468 0.8329 0.3777 0.8456 0.3768 c
+0.858 0.3767 0.8638 0.3287 0.8708 0.2897 c
+0.8766 0.2578 0.8782 0.2359 0.8892 0.2392 c
+0.906 0.239 0.921 0.2387 0.9388 0.239 c
+f
+0.2184 0.6323 m
+0.2052 0.4749 l
+0.2321 0.4749 l
+0.2184 0.6323 l
+h
+0.2804 0.3148 m
+0.2437 0.3148 l
+0.2364 0.4026 l
+0.1998 0.4026 l
+0.1998 0.4022 0.1929 0.3148 y
+0.1736 0.3148 l
+0.206 0.7095 l
+0.2094 0.7529 0.2166 0.777 0.2265 0.7773 c
+0.2378 0.7764 0.2437 0.7532 0.2473 0.7101 c
+f*
+0.0943 0.3939 m
+0.1028 0.3324 0.1167 0.3067 0.1335 0.3078 c
+0.1558 0.3092 0.1758 0.3555 0.1758 0.4574 c
+0.1758 0.6001 0.1217 0.5989 0.1214 0.6604 c
+0.1213 0.6929 0.127 0.7183 0.135 0.7183 c
+0.1433 0.7183 0.1511 0.697 0.1576 0.6615 c
+0.1686 0.6946 l
+0.1597 0.7535 0.1484 0.7765 0.1309 0.7763 c
+0.1102 0.7762 0.0928 0.7189 0.0928 0.6344 c
+0.0928 0.484 0.1427 0.4908 0.1427 0.4223 c
+0.1427 0.3827 0.1376 0.3678 0.1288 0.3678 c
+0.119 0.3678 0.1098 0.4 0.1059 0.4311 c
+f
+0.5598 0.6323 m
+0.5467 0.4749 l
+0.5735 0.4749 l
+0.5598 0.6323 l
+h
+0.6218 0.3148 m
+0.5852 0.3148 l
+0.5779 0.4026 l
+0.5412 0.4026 l
+0.5412 0.4022 0.5344 0.3148 y
+0.515 0.3148 l
+0.5475 0.7095 l
+0.5509 0.7529 0.5581 0.777 0.5679 0.7773 c
+0.5792 0.7764 0.5852 0.7532 0.5888 0.7101 c
+f*
+0.621 0.3939 m
+0.6296 0.3324 0.6434 0.3067 0.6603 0.3078 c
+0.6826 0.3092 0.7026 0.3555 0.7026 0.4574 c
+0.7026 0.6001 0.6485 0.5989 0.6482 0.6604 c
+0.6481 0.6929 0.6538 0.7183 0.6618 0.7183 c
+0.67 0.7183 0.6778 0.697 0.6843 0.6615 c
+0.6954 0.6946 l
+0.6864 0.7535 0.6752 0.7765 0.6576 0.7763 c
+0.637 0.7762 0.6196 0.7189 0.6196 0.6344 c
+0.6196 0.484 0.6695 0.4908 0.6695 0.4223 c
+0.6695 0.3827 0.6644 0.3678 0.6556 0.3678 c
+0.6458 0.3678 0.6366 0.4 0.6327 0.4311 c
+f
+0.3747 0.3625 m
+0.3747 0.321 0.3712 0.308 0.3636 0.308 c
+0.3579 0.308 0.356 0.3186 0.3509 0.3453 c
+0.3072 0.5828 l
+0.3072 0.5825 0.3072 0.3148 y
+0.289 0.3148 l
+0.289 0.6987 l
+0.2895 0.7666 0.3005 0.7778 0.3051 0.7778 c
+0.3154 0.7778 0.3192 0.7551 0.3265 0.7171 c
+0.3306 0.6957 0.356 0.5597 0.356 0.5597 c
+0.356 0.7722 l
+0.356 0.7726 0.3749 0.7722 y
+f
+0.5278 0.7306 m
+0.528 0.7699 0.5226 0.7724 0.5189 0.7721 c
+0.5189 0.7722 l
+0.4541 0.7722 l
+0.4504 0.7724 0.4449 0.7696 0.4452 0.7303 c
+0.4451 0.692 0.4508 0.6892 0.4542 0.6892 c
+0.4596 0.6892 0.4676 0.6892 0.4676 0.6892 c
+0.4675 0.3148 l
+0.5035 0.3148 l
+0.5036 0.6892 l
+0.5189 0.6892 0.5189 0.6892 v
+0.5217 0.6903 0.5279 0.6922 0.5278 0.7306 c
+f
+0.4255 0.7722 m
+0.4256 0.7722 0.4255 0.7722 0.4255 0.7722 c
+0.4305 0.7722 0.4346 0.7594 0.4346 0.7437 c
+0.4346 0.7431 0.4346 0.7426 0.4346 0.742 c
+0.4346 0.3148 l
+0.4346 0.3148 0.3989 0.3148 0.3989 0.3148 c
+0.3989 0.7419 l
+0.3989 0.7425 0.3989 0.7431 0.3989 0.7437 c
+0.3989 0.7594 0.4029 0.7722 0.4079 0.7722 c
+f
+endstream
+endobj
+9 0 obj
+<<
+/Type/XObject
+/FormType 1
+/Length 61
+/OPI<</1.3<<
+/Version 1.3
+/Type/OPI
+/Position[36.85 769.13397 36.85 808.07098 159.576 808.07098 159.576 769.13397]
+/F(Odilon2:TRABAJOS:SANITAS:01.1 L. SANITAS.eps)
+/CropFixed[27.992 48.646 972 348.151]
+/Size[972 408]
+/CropRect[28 49 972 348]
+>>
+>>
+/Resources<</ExtGState<</GS1 8 0 R>>/XObject<</Fm1 7 0 R>>/ProcSet[/PDF]>>
+/Subtype/Form
+/BBox[0 0 595.27594 841.88995]
+/Name/Fm0
+/Matrix[1 0 0 1 0 0]
+>>
+stream
+/GS1 gs
+q
+122.72103 0 0 38.93565 36.85 770.0234 cm
+/Fm1 Do
+Q
+endstream
+endobj
+10 0 obj
+<<
+/Type/XObject
+/FormType 1
+/Length 270
+/OPI<</2.0<<
+/Version 2
+/Type/OPI
+/Inks/full_color
+/F(Odilon2:TRABAJOS:SANITAS:circulo.eps)
+/Overprint false
+/Size[2233.85498 2233.854]
+/CropRect[1125.94202 128.60001 1437.75305 198.632]
+/IncludedImageQuality 1
+>>
+>>
+/Resources<</ProcSet[/PDF]>>
+/Subtype/Form
+/BBox[-0.95525 -11.22406 0.95384 0.79762]
+/Name/Fm3
+/Matrix[1 0 0 1 0 0]
+>>
+stream
+1 0 0 0 k
+-3.611 -29.0617 7.1641 31.8982 re
+f
+0 0 0 0 k
+3.1781 -13.204 m
+3.1781 -20.9279 1.7718 -27.1894 0.0371 -27.1894 c
+-1.6977 -27.1894 -3.1039 -20.9279 -3.1039 -13.204 c
+-3.1039 -5.4802 -1.6977 0.7813 0.0371 0.7813 c
+1.7718 0.7813 3.1781 -5.4802 3.1781 -13.204 c
+f
+endstream
+endobj
+11 0 obj
+<<
+/Type/XObject
+/FormType 1
+/Length 51
+/OPI<</1.3<<
+/Version 1.3
+/Type/OPI
+/Position[297.85901 785.14203 297.85901 855.17297 609.66998 855.17297 609.66998 785.14203]
+/F(Odilon2:TRABAJOS:SANITAS:circulo.eps)
+/CropFixed[1125.94202 128.60001 1437.75305 198.632]
+/Size[2234 2234]
+/CropRect[1126 129 1438 199]
+>>
+>>
+/Resources<</XObject<</Fm3 10 0 R>>/ProcSet[/PDF]>>
+/Subtype/Form
+/BBox[0 0 595.27594 841.88995]
+/Name/Fm2
+/Matrix[1 0 0 1 0 0]
+>>
+stream
+q
+311.811 0 0 70.031 297.859 786.0322 cm
+/Fm3 Do
+Q
+endstream
+endobj
+12 0 obj
+<<
+/Length 18559
+>>
+stream
+/GS0 gs
+q
+0 0.89 595 841 re
+W n
+1 g
+0 841.89 0 0 re
+f
+Q
+/GS0 gs
+/GS2 gs
+q
+48.189 437.4131 m
+558.383 437.4131 l
+558.604 319.749 l
+558.85 319.749 558.685 299.082 538.778 299.082 c
+48.41 299.082 l
+W* n
+0 J 0 j 0.4 i 10 M []0 d 1 w 
+/CS0 CS 1 SCN
+48.189 437.4131 m
+558.383 437.4131 l
+558.604 319.749 l
+558.85 319.749 558.685 299.082 538.778 299.082 c
+48.41 299.082 l
+s
+Q
+q
+48.41 578.402 m
+558.604 578.402 l
+558.604 463.888 l
+558.85 463.888 558.685 443.221 538.778 443.221 c
+48.41 443.221 l
+W* n
+0 J 0 j 0.4 i 10 M []0 d 1 w 
+/CS0 CS 1 SCN
+48.41 578.402 m
+558.604 578.402 l
+558.604 463.888 l
+558.85 463.888 558.685 443.221 538.778 443.221 c
+48.41 443.221 l
+s
+Q
+q
+48.41 696.906 m
+558.604 696.906 l
+558.604 606.0201 l
+558.85 606.0201 558.685 585.353 538.778 585.353 c
+48.41 585.353 l
+W* n
+0 J 0 j 0.4 i 10 M []0 d 1 w 
+/CS0 CS 1 SCN
+48.41 696.906 m
+558.604 696.906 l
+558.604 606.0201 l
+558.85 606.0201 558.685 585.353 538.778 585.353 c
+48.41 585.353 l
+s
+Q
+q
+48.41 746.381 m
+558.631 746.381 l
+558.631 723.958 l
+558.878 723.958 558.712 703.291 538.804 703.291 c
+48.41 703.291 l
+W* n
+0 J 0 j 0.4 i 10 M []0 d 1 w 
+/CS0 CS 1 SCN
+48.41 746.381 m
+558.631 746.381 l
+558.631 723.958 l
+558.878 723.958 558.712 703.291 538.804 703.291 c
+48.41 703.291 l
+s
+Q
+q
+/CS0 cs 1 scn
+48.41 680.476 510.236 17.008 re
+f
+/CS1 cs 0 0 0 0 scn
+36.85 770.024 128.45 38.937 re
+f
+Q
+/GS0 gs
+q
+36.85 770.024 128.45 38.937 re
+W n
+/GS1 gs
+/Fm0 Do
+Q
+/GS2 gs
+q
+BT
+/F0 1 Tf
+7 0 0 7 48.4102 761.6085 Tm
+0 Tr
+/CS0 cs 1 scn
+-0.0065 Tc
+0.0253 Tw
+(Ribera del Loira, 52. 28042 Madrid)Tj
+0 -1.14285 TD
+0 Tc
+(CIF: A28/037042)Tj
+9 0 0 9 52.238 662.2816 Tm
+-0.013 Tc
+0.025 Tw
+[(Primer apellido)-21096(Segundo apellido)]TJ
+ET
+/CS1 cs 0 0 0 0 scn
+297.859 786.032 311.811 70.031 re
+f
+/GS0 gs
+q
+297.859 786.032 311.811 70.031 re
+W n
+/Fm2 Do
+Q
+BT
+/F1 1 Tf
+22 0 0 22 209.7052 782.3951 Tm
+/CS0 cs 1 scn
+-0.039 Tc
+0.0241 Tw
+(Solicitud de Inclusi\227n de Beneficiario)Tj
+12 0 0 12 307.5284 685.0243 Tm
+/CS1 cs 0 0 0 0 scn
+0 Tc
+(Datos personales del Tomador del Seguro)Tj
+ET
+/GS2 gs
+/CS0 cs 1 scn
+48.41 420.31 510.236 17.008 re
+f
+/GS0 gs
+BT
+/F1 1 Tf
+12 0 0 12 233.9826 424.8586 Tm
+/CS1 cs 0 0 0 0 scn
+(Declaraci\227n a rellenar respecto a todos los Asegurados)Tj
+ET
+/GS2 gs
+q
+48.189 293.274 m
+558.383 293.274 l
+558.604 275.785 l
+558.85 275.785 558.685 255.119 538.778 255.119 c
+48.41 255.119 l
+W* n
+0 J 0 j 0.4 i 10 M []0 d 1 w 
+/CS0 CS 1 SCN
+48.189 293.274 m
+558.383 293.274 l
+558.604 275.785 l
+558.85 275.785 558.685 255.119 538.778 255.119 c
+48.41 255.119 l
+s
+Q
+BT
+/F0 1 Tf
+9 0 0 9 52.238 609.3427 Tm
+/CS0 cs 1 scn
+(eMail)Tj
+ET
+0 J 0 j 0.4 i 10 M []0 d 0.5 w 
+/CS0 CS 1 SCN
+202.677 709.755 m
+545.655 709.755 l
+S
+114.142 662.666 m
+294.322 662.666 l
+S
+366.907 662.666 m
+545.753 662.666 l
+S
+88.809 644.874 m
+294.322 644.874 l
+S
+77.476 609.291 m
+452.062 609.291 l
+S
+95.857 262.979 m
+545.655 262.979 l
+S
+BT
+/F1 1 Tf
+9 0 0 9 59.6354 405.8996 Tm
+(1. )Tj
+ET
+BT
+/F0 1 Tf
+9 0 0 9 73.4037 405.8996 Tm
+0.0253 Tw
+(\300Se le ha practicado alguna intervenci\227n quir\234rgica?)Tj
+ET
+BT
+/F1 1 Tf
+9 0 0 9 59.6354 392.8997 Tm
+0.0241 Tw
+(2. )Tj
+ET
+BT
+/F0 1 Tf
+9 0 0 9 73.4037 392.8997 Tm
+0.0253 Tw
+(\300Tiene prevista alguna?)Tj
+ET
+BT
+/F1 1 Tf
+9 0 0 9 59.6354 379.8997 Tm
+0.0241 Tw
+(3. )Tj
+ET
+BT
+/F0 1 Tf
+9 0 0 9 73.4037 379.8997 Tm
+0.0253 Tw
+(\300Ha estado en alg\234n hospital o instituci\227n en observaci\227n o tratamiento?)Tj
+ET
+BT
+/F1 1 Tf
+9 0 0 9 59.6354 366.8996 Tm
+0.0241 Tw
+(4. )Tj
+ET
+BT
+/F0 1 Tf
+9 0 0 9 73.4037 366.8996 Tm
+0.0253 Tw
+(\300Ha consultado o estado en tratamiento m\216dico en el \234ltimo a\226o por alg\234n s\222ntoma o enfermedad)Tj
+0.27823 -1 TD
+(transitoria o defecto?)Tj
+ET
+BT
+/F1 1 Tf
+9 0 0 9 59.6354 344.8996 Tm
+0.0241 Tw
+(5. )Tj
+ET
+BT
+/F0 1 Tf
+9 0 0 9 73.4037 344.8996 Tm
+-0.013 Tc
+0.0253 Tw
+(Seg\234n su m\207s leal saber o entender, \300padece actualmente alguna enfermedad transitoria, cr\227nica o defecto?)Tj
+ET
+BT
+/F1 1 Tf
+9 0 0 9 59.6354 331.8996 Tm
+0 Tc
+0.0241 Tw
+(6. )Tj
+ET
+BT
+/F0 1 Tf
+9 0 0 9 73.4037 331.8996 Tm
+0.0253 Tw
+(\300Est\207 usted embarazada?)Tj
+-2.04723 -1.77778 TD
+0.1341 Tw
+(Si ha contestado que s\222 a cualquiera de las preguntas anteriores, rellene por favor el cuestionario adicional de Sanitas, para)Tj
+0 -1.11111 TD
+0.0253 Tw
+(detallar cada una de las cuestiones relativas a la salud arriba indicadas.)Tj
+7 0 0 7 498.8871 20.0841 Tm
+(Mod. 3630/02-07)Tj
+9 0 0 9 52.238 627.0624 Tm
+(Tel\216fonos)Tj
+7.5 0 0 7.5 95.6466 619.7427 Tm
+(Fijo )Tj
+ET
+95.665 626.9901 m
+191.596 626.9901 l
+S
+95.9166 635.6901 m
+95.9166 626.9911 l
+S
+106.5166 630.8201 m
+106.5166 626.991 l
+S
+117.1166 630.8201 m
+117.1166 626.9911 l
+S
+127.7166 630.8201 m
+127.7166 626.9911 l
+S
+138.3166 630.8201 m
+138.3166 626.991 l
+S
+148.9167 630.8201 m
+148.9167 626.9911 l
+S
+159.5167 630.8201 m
+159.5167 626.9911 l
+S
+170.1167 630.8201 m
+170.1167 626.991 l
+S
+180.7167 630.8201 m
+180.7167 626.9911 l
+S
+191.4168 635.8149 m
+191.4168 627.1159 l
+S
+BT
+/F0 1 Tf
+7.5 0 0 7.5 196.4466 619.6105 Tm
+(M\227vil )Tj
+ET
+196.596 626.858 m
+292.526 626.858 l
+S
+196.8474 635.5575 m
+196.8474 626.8585 l
+S
+207.4474 630.6876 m
+207.4474 626.8586 l
+S
+218.0474 630.6875 m
+218.0474 626.8585 l
+S
+228.6474 630.6876 m
+228.6474 626.8586 l
+S
+239.2475 630.6876 m
+239.2475 626.8586 l
+S
+249.8475 630.6876 m
+249.8475 626.8585 l
+S
+260.4475 630.6876 m
+260.4475 626.8586 l
+S
+271.0475 630.6875 m
+271.0475 626.8585 l
+S
+281.6475 630.6876 m
+281.6475 626.8585 l
+S
+292.3476 635.6824 m
+292.3476 626.9834 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 53.4718 709.9196 Tm
+-0.013 Tc
+(Producto en el que solicita la inclusi\227n)Tj
+44.18519 -7.3099 TD
+-0.026 Tc
+(Fecha de nacimiento)Tj
+7 0 0 7 452.3882 620.3003 Tm
+0 Tc
+(d\222a         mes      a\226o)Tj
+ET
+502.041 627.173 m
+544.896 627.173 l
+S
+502.292 635.873 m
+502.292 627.174 l
+S
+512.892 631.0029 m
+512.892 627.1739 l
+S
+523.492 631.003 m
+523.492 627.174 l
+S
+534.092 631.0031 m
+534.092 627.1741 l
+S
+544.6924 635.8715 m
+544.6924 627.1735 l
+S
+452.437 627.173 m
+474.242 627.173 l
+S
+452.6884 635.8725 m
+452.6884 627.1735 l
+S
+463.2884 631.0026 m
+463.2884 627.1736 l
+S
+473.8889 635.8719 m
+473.8889 627.174 l
+S
+477.401 627.173 m
+499.207 627.173 l
+S
+477.6527 635.8729 m
+477.6527 627.1738 l
+S
+488.2527 631.0029 m
+488.2527 627.174 l
+S
+498.8533 635.8713 m
+498.8533 627.1733 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 490.3286 Tm
+(eMail)Tj
+ET
+77.476 490.552 m
+452.322 490.552 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 473.3 Tm
+0 Tw
+[(Profesi\227n)-23185(Empresa)]TJ
+ET
+333.422 473.299 m
+543.655 473.299 l
+S
+91.65 473.299 m
+291.968 473.299 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 591.4999 Tm
+[(Profesi\227n)-23185(Empresa)]TJ
+ET
+333.422 591.5881 m
+546.155 591.5881 l
+S
+90.709 591.5881 m
+291.968 591.5881 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 455.9734 Tm
+(Parentesco)Tj
+ET
+97.993 456.047 m
+291.968 456.047 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 508.9483 Tm
+(Tel\216fonos)Tj
+7.5 0 0 7.5 95.6466 501.6285 Tm
+0.0253 Tw
+(Fijo )Tj
+ET
+95.665 508.876 m
+191.596 508.876 l
+S
+95.9167 517.5759 m
+95.9167 508.877 l
+S
+106.5167 512.7059 m
+106.5167 508.8769 l
+S
+117.1167 512.7059 m
+117.1167 508.877 l
+S
+127.7167 512.7059 m
+127.7167 508.877 l
+S
+138.3168 512.7059 m
+138.3168 508.8769 l
+S
+148.9168 512.7059 m
+148.9168 508.877 l
+S
+159.5168 512.7059 m
+159.5168 508.877 l
+S
+170.1168 512.7059 m
+170.1168 508.8769 l
+S
+180.7168 512.7059 m
+180.7168 508.877 l
+S
+191.4169 517.7008 m
+191.4169 509.0018 l
+S
+BT
+/F0 1 Tf
+7.5 0 0 7.5 196.4466 501.4964 Tm
+(M\227vil )Tj
+ET
+196.596 508.744 m
+292.526 508.744 l
+S
+196.8475 517.4435 m
+196.8475 508.7445 l
+S
+207.4476 512.5735 m
+207.4476 508.7445 l
+S
+218.0475 512.5734 m
+218.0475 508.7444 l
+S
+228.6476 512.5735 m
+228.6476 508.7445 l
+S
+239.2476 512.5735 m
+239.2476 508.7445 l
+S
+249.8477 512.5735 m
+249.8477 508.7444 l
+S
+260.4476 512.5735 m
+260.4476 508.7445 l
+S
+271.0476 512.5735 m
+271.0476 508.7445 l
+S
+281.6476 512.5735 m
+281.6476 508.7444 l
+S
+292.3477 517.5684 m
+292.3477 508.8694 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 644.7101 Tm
+-0.013 Tc
+(Nombre)Tj
+ET
+48.41 562.537 510.236 17.008 re
+f
+BT
+/F0 1 Tf
+9 0 0 9 52.238 544.3432 Tm
+0.025 Tw
+[(Primer apellido)-20874(Segundo apellido)]TJ
+ET
+/GS0 gs
+BT
+/F1 1 Tf
+12 0 0 12 306.5147 567.0861 Tm
+/CS1 cs 0 0 0 0 scn
+0 Tc
+0.0241 Tw
+(Datos personales del Beneficiario a incluir)Tj
+ET
+/GS2 gs
+110.981 544.804 m
+291.947 544.804 l
+S
+111.2322 553.5038 m
+111.2322 544.8038 l
+S
+121.8322 548.6339 m
+121.8322 544.8048 l
+S
+132.4322 548.6338 m
+132.4322 544.8038 l
+S
+143.0322 548.6338 m
+143.0322 544.8038 l
+S
+153.6322 548.6329 m
+153.6322 544.8038 l
+S
+164.2323 548.6328 m
+164.2323 544.8038 l
+S
+174.8323 548.6328 m
+174.8323 544.8038 l
+S
+185.4323 548.6329 m
+185.4323 544.8038 l
+S
+196.0323 548.6328 m
+196.0323 544.8038 l
+S
+206.6324 548.6328 m
+206.6324 544.8038 l
+S
+217.2323 548.6329 m
+217.2323 544.8038 l
+S
+227.8323 548.6328 m
+227.8323 544.8038 l
+S
+238.4323 548.6328 m
+238.4323 544.8038 l
+S
+249.0323 548.6329 m
+249.0323 544.8039 l
+S
+259.6323 548.6329 m
+259.6323 544.804 l
+S
+270.2324 548.633 m
+270.2324 544.804 l
+S
+280.8323 548.6329 m
+280.8323 544.8039 l
+S
+291.4323 548.6329 m
+291.4323 544.804 l
+S
+291.4003 553.5026 m
+291.4003 544.8046 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 52.238 527.7717 Tm
+/CS0 cs 1 scn
+-0.013 Tc
+(Nombre)Tj
+ET
+110.981 528.233 m
+291.947 528.233 l
+S
+111.2316 536.9324 m
+111.2316 528.2325 l
+S
+121.8317 532.0624 m
+121.8317 528.2333 l
+S
+132.4317 532.0623 m
+132.4317 528.2323 l
+S
+143.0317 532.0623 m
+143.0317 528.2324 l
+S
+153.6317 532.0614 m
+153.6317 528.2324 l
+S
+164.2317 532.0615 m
+164.2317 528.2324 l
+S
+174.8317 532.0614 m
+174.8317 528.2324 l
+S
+185.4317 532.0614 m
+185.4317 528.2324 l
+S
+196.0317 532.0615 m
+196.0317 528.2324 l
+S
+206.6317 532.0614 m
+206.6317 528.2324 l
+S
+217.2316 532.0615 m
+217.2316 528.2324 l
+S
+227.8317 532.0615 m
+227.8317 528.2325 l
+S
+238.4317 532.0614 m
+238.4317 528.2324 l
+S
+249.0317 532.0614 m
+249.0317 528.2324 l
+S
+259.6318 532.0615 m
+259.6318 528.2325 l
+S
+270.2318 532.0614 m
+270.2318 528.2324 l
+S
+280.8318 532.0614 m
+280.8318 528.2324 l
+S
+291.4318 532.0615 m
+291.4318 528.2325 l
+S
+291.3997 536.9312 m
+291.3997 528.2332 l
+S
+363.695 544.804 m
+545.233 544.804 l
+S
+363.9465 553.5032 m
+363.9465 544.8041 l
+S
+374.5465 548.6331 m
+374.5465 544.8041 l
+S
+385.1465 548.633 m
+385.1465 544.804 l
+S
+395.7465 548.6332 m
+395.7465 544.8041 l
+S
+406.3465 548.6331 m
+406.3465 544.8041 l
+S
+416.9465 548.6331 m
+416.9465 544.8041 l
+S
+427.5466 548.6332 m
+427.5466 544.8041 l
+S
+438.1465 548.6331 m
+438.1465 544.8041 l
+S
+448.7466 548.6332 m
+448.7466 544.8042 l
+S
+459.3466 548.6331 m
+459.3466 544.8042 l
+S
+469.9467 548.6331 m
+469.9467 544.8041 l
+S
+480.5466 548.6332 m
+480.5466 544.8043 l
+S
+491.1466 548.6332 m
+491.1466 544.8042 l
+S
+501.7466 548.6331 m
+501.7466 544.8041 l
+S
+512.3466 548.6331 m
+512.3466 544.8041 l
+S
+522.9467 548.6332 m
+522.9467 544.8041 l
+S
+533.5466 548.6331 m
+533.5466 544.8041 l
+S
+544.6609 553.5034 m
+544.6609 544.8044 l
+S
+/GS0 gs
+529.833 406.371 6.586 6.587 re
+s
+529.833 393.385 6.586 6.587 re
+s
+529.833 380.549 6.586 6.586 re
+s
+529.833 331.482 6.586 6.587 re
+s
+529.833 345.093 6.586 6.587 re
+s
+529.833 358.704 6.586 6.587 re
+s
+499.833 406.371 6.586 6.587 re
+s
+499.833 393.385 6.586 6.587 re
+s
+499.833 380.549 6.586 6.586 re
+s
+499.833 331.482 6.586 6.587 re
+s
+499.833 345.093 6.586 6.587 re
+s
+499.833 358.704 6.586 6.587 re
+s
+/GS2 gs
+302.663 277.9671 6.586 6.587 re
+s
+202.806 277.9671 6.586 6.587 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 314.7514 277.7002 Tm
+0 Tc
+(Oficina)Tj
+ET
+359.377 277.9671 6.587 6.587 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 371.4656 277.7002 Tm
+(Agente)Tj
+18.61442 14.33425 TD
+(No)Tj
+-3.38095 0 Td
+<5392>Tj
+3.38096 -1.4485 TD
+(No)Tj
+-3.38095 0 Td
+<5392>Tj
+3.38096 -1.49541 TD
+(No)Tj
+-3.38095 0 Td
+<5392>Tj
+3.38096 -2.38519 TD
+(No)Tj
+-3.38095 0 Td
+<5392>Tj
+3.38096 -1.50741 TD
+(No)Tj
+-3.38095 0 Td
+<5392>Tj
+3.38096 -1.5074 TD
+(No)Tj
+-3.38095 0 Td
+<5392>Tj
+-50.52317 -5.99034 TD
+0.0253 Tw
+(Enviar documentaci\227n y tarjetas a:)Tj
+0 -1.66667 TD
+(Direcci\227n)Tj
+17.72728 1.66667 TD
+(Domicio tomador)Tj
+9.32529 19.81631 TD
+-0.052 Tc
+(Fecha de efecto para la que se solicita el alta)Tj
+7 0 0 7 452.3354 448.9951 Tm
+0 Tc
+(d\222a         mes      a\226o)Tj
+ET
+501.988 455.868 m
+544.843 455.868 l
+S
+502.2394 464.5669 m
+502.2394 455.868 l
+S
+512.8395 459.6969 m
+512.8395 455.8679 l
+S
+523.4395 459.6969 m
+523.4395 455.868 l
+S
+534.0394 459.6969 m
+534.0394 455.868 l
+S
+544.6389 464.5666 m
+544.6389 455.8687 l
+S
+452.384 455.868 m
+474.189 455.868 l
+S
+452.6358 464.5674 m
+452.6358 455.8685 l
+S
+463.2359 459.6974 m
+463.2359 455.8684 l
+S
+473.8353 464.5659 m
+473.8353 455.868 l
+S
+477.348 455.868 m
+499.154 455.868 l
+S
+477.6001 464.5677 m
+477.6001 455.8687 l
+S
+488.2002 459.6977 m
+488.2002 455.8687 l
+S
+498.7996 464.5663 m
+498.7996 455.8683 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 474.9578 608.9119 Tm
+(Hombre)Tj
+ET
+465.414 609.028 6.587 6.587 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 523.1107 608.9119 Tm
+(Mujer)Tj
+ET
+513.567 609.028 6.5869 6.587 re
+s
+BT
+/F0 1 Tf
+7.5 0 0 7.5 47.096 183.9581 Tm
+0.0167 Tw
+(T\216rminos y Condiciones. El abajo firmante declara que dicha informaci\227n es cierta y que no ha omitido dato alguno sobre el estado de salud de todas y cada)Tj
+0 -1.13333 TD
+-0.0379 Tw
+(una de las personas incluidas en este documento. No obstante faculta a SANITAS, SOCIEDAD AN\356NIMA DE SEGUROS, (en adelante, SANITAS), para que pueda)Tj
+0 -1.13334 TD
+0.0404 Tw
+(requerir de m\216dicos e instituciones, y por tanto autoriza a \216stos a que faciliten a SANITAS, los datos sobre la salud de las personas que hayan sido incluidas)Tj
+0.0802 Tw
+(en la p\227liza que entienda necesarios para el mejor conocimiento y valoraci\227n de los riesgos a cubrir, para prevenci\227n del fraude, y para la atenci\227n de las)'
+0 -1.13333 TD
+0.1618 Tw
+(reclamaciones presentadas por los propios asegurados, pudiendo conservar todos sus datos, incluyendo todos los relativos a su salud, para este fin. El)Tj
+0 -1.13334 TD
+0.072 Tw
+(interesado reconoce que SANITAS se reserva el derecho de aceptaci\227n o rechazo, total o parcial de esta solicitud a los efectos de contrataci\227n del seguro.)Tj
+-0.0053 Tw
+(Asimismo y de conformidad con la normativa legal sobre protecci\227n de datos de car\207cter personal, los asegurados consienten expresamente en que todos los)'
+0 -1.13333 TD
+0.009 Tw
+(datos personales relativos al Tomador y dem\207s personas incluidas en esta solicitud sean incorporadas a ficheros titularidad de SANITAS, siendo su finalidad la)Tj
+0.0595 Tw
+(de servir a las actividades propias de esta compa\226\222a, la efectividad de las relaciones contractuales ,el conocimiento de los motivos de la baja de la p\227liza, la)'
+-0.01 Tw
+(prevenci\227n del fraude y el env\222o de publicidad y ofertas comerciales u otras que pudieran resultar de su inter\216s de la entidad y terceros con los que establezca)'
+0.0659 Tw
+(v\222nculos de colaboraci\227n, autoriz\207ndonos a tratar sus datos para enviarle la informaci\227n que m\207s se adapte a sus necesidades espec\222ficas. Con el exclusivo)'
+0.0031 Tw
+(objeto de prevenir el fraude, los asegurados consienten expresamente en que sean conservados por SANITAS los datos estr\222ctamente necesarios para este fin)'
+0.0047 Tw
+(aunque se haya extinguido la relaci\227n contractual. As\222mismo, los asegurados autorizan expresamente la cesi\227n de dichos datos a empresas del Grupo Sanitas)'
+0.093 Tw
+(que constan identificadas en www.sanitas.com y entidades relacionadas con productos y servicios financieros, de seguros, sociosanitarios y/o de salud as\222)'
+0.0495 Tw
+(como de bienestar, para la efectividad de las relaciones contractuales con el asegurado as\222 como para el env\222o de informaci\227n comercial de las mismas. Los)'
+0.1131 Tw
+(derechos de oposici\227n, acceso, rectificaci\227n y cancelaci\227n de estos datos previstos en la mencionada legislaci\227n, pueden ser ejercitados en la sede de la)'
+0.1172 Tw
+(entidad, calle Ribera del Loira 52 28042 Madrid, Departamento de Relaciones con Clientes. El tomador se hace responsable de comunicar a los dem\207s)'
+-0.0101 Tw
+(asegurados declarados en la p\227liza, la inclusi\227n de sus datos en los ficheros anteriormente mencionados. En caso de no recibir comunicaci\253\253n escrita en el plazo)'
+0.0106 Tw
+(de 30 d\222as a contar desde la fecha de la presente solicitud, entenderemos que est\207 conforme con el env\222o de publicidad y cesi\227n de datos a otras compa\226\222as)'
+0.0253 Tw
+(en los t\216rminos indicados.)'
+ET
+255.573 195.4211 m
+370.98 195.4211 l
+S
+382.677 195.4211 m
+401.312 195.4211 l
+S
+418.32 195.4211 m
+509.029 195.4211 l
+S
+538.583 195.4211 m
+556.766 195.4211 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 48.1889 246.2998 Tm
+(Firma del Tomador/Asegurado)Tj
+21.68912 -5.77778 TD
+0.025 Tw
+[(En)-13524(a)-2829(de)-10989(de 20)]TJ
+0.04317 5.77778 TD
+0.0253 Tw
+(Firma del Agente/Compa\226\222a)Tj
+ET
+369.35 726.4171 m
+545.974 726.4171 l
+S
+525.827 750.6 m
+557.974 750.6 l
+S
+497.849 762.053 m
+557.974 762.053 l
+S
+125.985 726.4171 m
+342.832 726.4171 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 53.6929 726.2581 Tm
+-0.013 Tc
+(N\234mero de p\227liza )Tj
+32.62393 0.00001 TD
+(Barra)Tj
+7 0 0 7 444.8384 761.6283 Tm
+-0.0195 Tc
+(C\227d. de inspector)Tj
+0 -1.57143 TD
+(C\227d. de segundo mediador)Tj
+9 0 0 9 315.2353 634.2583 Tm
+0 Tc
+(NIF/CIF)Tj
+ET
+300.003 644.181 m
+412.92 644.181 l
+S
+299.6827 652.8807 m
+299.6827 644.1817 l
+S
+413.0537 652.8797 m
+413.0537 644.1817 l
+S
+300.692 634.3751 6.587 6.586 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 374.0898 634.0867 Tm
+(Pasaporte)Tj
+ET
+359.546 634.2031 6.587 6.5859 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 315.2353 624.4199 Tm
+(Tarjeta de residencia)Tj
+ET
+300.692 624.536 6.587 6.587 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 451.1385 528.264 Tm
+-0.026 Tc
+(Fecha de nacimiento)Tj
+7 0 0 7 452.3882 504.4338 Tm
+0 Tc
+(d\222a         mes      a\226o)Tj
+ET
+502.041 511.307 m
+544.896 511.307 l
+S
+502.2925 520.0065 m
+502.2925 511.3075 l
+S
+512.8915 515.1365 m
+512.8915 511.3074 l
+S
+523.4915 515.1365 m
+523.4915 511.3075 l
+S
+534.0915 515.1365 m
+534.0915 511.3075 l
+S
+544.6919 520.005 m
+544.6919 511.307 l
+S
+452.437 511.307 m
+474.242 511.307 l
+S
+452.6888 520.006 m
+452.6888 511.307 l
+S
+463.2889 515.136 m
+463.2889 511.307 l
+S
+473.8883 520.0055 m
+473.8883 511.3075 l
+S
+477.401 511.307 m
+499.207 511.307 l
+S
+477.6531 520.0063 m
+477.6531 511.3073 l
+S
+488.2532 515.1364 m
+488.2532 511.3074 l
+S
+498.8527 520.0048 m
+498.8527 511.3069 l
+S
+BT
+/F0 1 Tf
+9 0 0 9 474.9578 493.0454 Tm
+(Hombre)Tj
+ET
+465.414 493.162 6.587 6.586 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 523.1107 493.0454 Tm
+(Mujer)Tj
+ET
+513.567 493.162 6.5869 6.586 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 315.2353 518.3918 Tm
+(NIF/CIF)Tj
+ET
+300.003 528.315 m
+412.92 528.315 l
+S
+299.6822 537.0142 m
+299.6822 528.3152 l
+S
+413.0542 537.0132 m
+413.0542 528.3152 l
+S
+300.692 518.5081 6.587 6.587 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 374.0898 518.2202 Tm
+(Pasaporte)Tj
+ET
+359.546 518.3361 6.587 6.587 re
+s
+BT
+/F0 1 Tf
+9 0 0 9 315.2353 508.5535 Tm
+(Tarjeta de residencia)Tj
+ET
+300.692 508.6701 6.587 6.5859 re
+s
+/GS0 gs
+Q
+endstream
+endobj
+13 0 obj
+<<
+/SA false
+/OPM 1
+/Type/ExtGState
+/OP false
+>>
+endobj
+8 0 obj
+<<
+/SA true
+/OPM 1
+/Type/ExtGState
+/OP false
+>>
+endobj
+14 0 obj
+<<
+/SA false
+/OPM 1
+/Type/ExtGState
+/OP true
+>>
+endobj
+15 0 obj
+<<
+/Length 9277
+>>
+stream
+/GS0 gs
+q
+0 0.89 595 841 re
+W n
+1 g
+0 841.89 0 0 re
+f
+Q
+/GS0 gs
+/GS2 gs
+q
+BT
+/F0 1 Tf
+8 0 0 8 48.189 756.5202 Tm
+0 Tr
+/CS0 cs 1 scn
+0.1802 Tw
+(\(El Tomador reconoce con su firma en el anverso de su solicitud de Seguro haber sido informado en la fecha de la misma de lo indicado a)Tj
+0 -1.1875 TD
+0.0039 Tw
+(continuaci\227n en cumplimiento de lo dispuesto en el art. 60 del Real Decreto Legislativo 6/2004, de 29 de octubre y de los art\222culos 104 a 107 de)Tj
+0.0253 Tw
+(su Reglamento de desarrollo, aprobado por Real Decreto 2486/1998\).)'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 718.5203 Tm
+0.0708 Tw
+(LEGISLACI\356N APLICABLE: )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 146.4157 718.5203 Tm
+0.0743 Tw
+(Ley 50/80 de 8 de octubre de Contrato de Seguro; Real Decreto Legislativo 6/2004, por el que se aprueba el texto)Tj
+-12.27834 -1.1875 TD
+0.0253 Tw
+(refundido de la ley de Ordenaci\227n y Supervisi\227n de los Seguros Privados y su Reglamento de desarrollo. (R.D. n\274 2486/98 de 20 de Noviembre).)Tj
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 690.0203 Tm
+0.1022 Tw
+(ENTIDAD ASEGURADORA:)Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 149.6805 690.0203 Tm
+0.1072 Tw
+(SANITAS, SOCIEDAD AN\356NIMA DE SEGUROS, con domicilio social en la C/ Ribera del Loira n\274 52 \(28042 Madrid,)Tj
+-12.68644 -1.1875 TD
+0.1383 Tw
+(Espa\226a\), correspondiendo a la Direcci\227n General de Seguros y Fondos de Pensiones del Ministerio de Econom\222a el control y supervisi\227n de su)Tj
+(actividad.)'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 652.0203 Tm
+-0.0212 Tw
+(DERECHO DE RESCISI\356N: )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 142.8165 652.0203 Tm
+-0.0223 Tw
+(En los casos en que el contrato de seguro se celebre utilizando una t\216cnica de contrataci\227n a distancia, el Tomador podr\207)Tj
+-11.82844 -1.1875 TD
+0.078 Tw
+(resolverlo unilateralmente, sin penalizaci\227n alguna, siempre que no haya acaecido el siniestro objeto de cobertura, en los 14 d\222as siguientes a la)Tj
+0.0278 Tw
+(firma de la p\227liza de seguros o a la recepci\227n por el Tomador de las condiciones contractuales y la informaci\227n previa obligatoria, si esta recepci\227n)'
+0.0253 Tw
+(se produce con posterioridad a la firma de la p\227liza.)'
+0 -2.375 TD
+0.123 Tw
+(Este derecho solo le corresponde a los Tomadores que sean personas f\222sicas y que act\234en con un prop\227sito ajeno a una actividad comercial o)Tj
+0 -1.1875 TD
+0.0253 Tw
+(profesional propia.)Tj
+0 -2.37501 TD
+0.0127 Tw
+(Para ejercitar este derecho, el Tomador remitir\207 la oportuna comunicaci\227n dirigida al Asegurador, utilizando cualquier soporte duradero y accesible)Tj
+0 -1.18749 TD
+-0.0017 Tw
+(al Asegurador. El Tomador podr\207 remitir esta comunicaci\227n utilizando medios electr\227nicos, siempre que disponga de los dispositivos que garanticen)Tj
+0 -1.1875 TD
+0.0253 Tw
+(la integridad, autenticidad y no alteraci\227n de la comunicaci\227n, y permitan constatar la fecha de env\222o y recepci\227n de la misma.)Tj
+0 -2.375 TD
+(La cobertura del riesgo objeto de la p\227liza cesar\207 desde la fecha de expedici\227n por el Tomador de la comunicaci\227n de resoluci\227n.)Tj
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 519.0203 Tm
+0.0025 Tw
+("CELEBRACION DEL CONTRATO: )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 168.8032 519.0203 Tm
+0.0026 Tw
+(El contrato de seguro podr\207 celebrarse utilizando una t\216cnica de comunicaci\227n a distancia siempre que la misma)Tj
+-15.07678 -1.1875 TD
+0.0241 Tw
+(est\216 disponible y sea accesible para ambas partes del contrato y siempre que dicha t\216cnica garantice la integridad, autenticidad y no alteraci\227n del)Tj
+0.2874 Tw
+(contrato, debiendose utilizar mecanismos que garanticen la constataci\227n de la fecha de env\222o y recepci\227n del mensaje, su accesibilidad,)'
+0.0253 Tw
+(conservaci\227n y reproducci\227n.)'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 62.3622 471.5202 Tm
+0.0241 Tw
+(a\) )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 76.5354 471.5202 Tm
+-0.026 Tw
+(En los casos en que el contrato de seguro se celebre utilizando una t\216cnica de contrataci\227n electr\227nica, telem\207tica o inform\207tica, el Tomador)Tj
+0 -1.1875 TD
+0.1153 Tw
+(cumplimentar\207 la solicitud de seguro y la documentaci\227n contractual que le proporcione el Asegurador a trav\216s de cualquiera de estas)Tj
+0.0156 Tw
+(t\216cnicas y archivar\207 todos los documentos en un soporte inform\207tico que tenga la consideraci\227n de soporte duradero seg\234n lo establecido)'
+0.0253 Tw
+(en la Ley 50/1980 del Contrato de Seguro. )'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 62.3622 424.0202 Tm
+0.0241 Tw
+(b\) )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 76.5354 424.0202 Tm
+0.0106 Tw
+(En los casos en que el contrato de seguro se celebre utilizando una t\216cnica de contrataci\227n a distancia distinta de la electr\227nica, telem\207tica)Tj
+0 -1.1875 TD
+0.1257 Tw
+(o inform\207tica, el Tomador har\207 llegar la solicitud de seguro al Asegurador debidamente cumplimentada. Posteriormente, el Asegurador)Tj
+0.0253 Tw
+(enviar\207 al Tomador la documentaci\227n de la p\227liza, cuya copia deber\207 ser firmada por \216ste y devuelta al Asegurador.)'
+-3.5433 -2.375 TD
+0.1159 Tw
+(En cualquier momento de la relaci\227n contractual, el Tomador tendr\207 derecho a obtener las condiciones contractuales en papel y a cambiar las)Tj
+0 -1.1875 TD
+0.0253 Tw
+(t\216cnicas de comunicaci\227n a distancia utilizadas para la celebraci\227n del contrato de seguro.")Tj
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 357.5202 Tm
+0.0127 Tw
+(INSTANCIAS DE RECLAMACI\356N: )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 170.1568 357.5202 Tm
+0.0133 Tw
+(En caso de cualquier tipo reclamaci\227n sobre el contrato de seguro, el Tomador, Asegurado, Beneficiario, Tercero)Tj
+-15.24598 -1.1875 TD
+0.0253 Tw
+(perjudicado o Derechohabientes de cualquiera de ellos, deber\207n dirigirse para su resoluci\227n: )Tj
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 329.0202 Tm
+(1.)Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 62.3622 329.0202 Tm
+0.044 Tw
+(Al Departamento de Atenci\227n al Cliente del Asegurador, -mediante escrito dirigido a la calle Ribera del Loira n\274 52 (28042 Madrid) o al fax n\274)Tj
+0 -1.1875 TD
+0.035 Tw
+(91 585 24 80 o a la direcci\227n de correo electr\227nico clientes @ sanitas.es - , quien acusar\207 recibo por escrito y resolver\207 igualmente mediante)Tj
+0.0253 Tw
+(escrito motivado en el plazo m\207ximo legal de dos meses desde la fecha de presentaci\227n de la reclamaci\227n. )'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 291.0202 Tm
+0.0241 Tw
+(2. )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 62.3622 291.0202 Tm
+0.0303 Tw
+(Una vez agotada dicha v\222a interna del Asegurador, o en caso de no estar conformes con la resoluci\227n de este, podr\207n formular su reclamaci\227n)Tj
+0 -1.1875 TD
+0.0253 Tw
+(ante el Defensor del Asegurado designado por el Asegurador en los siguientes casos: )Tj
+ET
+BT
+/F1 1 Tf
+8 0 0 8 62.3622 262.5202 Tm
+0.0241 Tw
+(a\) )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 76.5354 262.5202 Tm
+0.0618 Tw
+(Cuando se trate de reclamaciones cuya cuant\222a no exceda de 21.000 euros y afecten a la interpretaci\227n de las Condiciones Generales y)Tj
+0 -1.1875 TD
+0.0253 Tw
+(Particulares de la p\227liza. )Tj
+0 -2.375 TD
+0.0766 Tw
+(No podr\207n someterse al Defensor del Asegurado las reclamaciones que versen sobre la actuaci\227n personal o profesional de los m\216dicos,)Tj
+0 -1.1875 TD
+0.0253 Tw
+(hospitales y servicios m\216dicos en general que presten atenci\227n m\216dica a los asegurados . )Tj
+ET
+BT
+/F1 1 Tf
+8 0 0 8 62.3622 205.5202 Tm
+0.0241 Tw
+(b\) )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 76.5354 205.5202 Tm
+0.1619 Tw
+(Cuando a\234n estando fuera de los anteriores supuestos, as\222 lo acepte el Asegurador. Para reclamar ante el Defensor del Asegurado el)Tj
+0 -1.1875 TD
+-0.0267 Tw
+(reclamante deber\207 dirigir un escrito al apartado de correos n.\274 50.072 (28080 Madrid) exponiendo los motivos de su reclamaci\227n. A la vista)Tj
+0.2082 Tw
+(del mismo, el Defensor acusar\207 recibo por escrito y se declarar\207 o no competente. Si se declara competente, una vez estudiada la)'
+0.071 Tw
+(reclamaci\227n, dictar\207 \320dentro del plazo m\207ximo legal de dos meses computados desde la fecha de presentaci\227n de la reclamaci\227n ante el)'
+0.1737 Tw
+(Asegurador- una resoluci\227n motivada que ser\207 comunicada por escrito tanto al reclamante como al Asegurador, para quien resultar\207)'
+0.0253 Tw
+(vinculante. )'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 139.0202 Tm
+0.0241 Tw
+(3. )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 62.3622 139.0202 Tm
+0.0694 Tw
+(Tambi\216n, podr\207 iniciar el procedimiento administrativo de reclamaci\227n ante el Comisionado para la Defensa del Asegurado y del Part\222cipe en)Tj
+0 -1.1875 TD
+0.0218 Tw
+(Planes de Pensiones. Para ello, el reclamante deber\207 acreditar que ha transcurrido el plazo establecido para la resoluci\227n de la reclamaci\227n por)Tj
+0.0253 Tw
+(el Defensor del Asegurado o que ha sido denegada la admisi\227n de la reclamaci\227n o desestimada su petici\227n por \216ste. )'
+ET
+BT
+/F1 1 Tf
+8 0 0 8 48.189 101.0202 Tm
+0.0241 Tw
+(4. )Tj
+ET
+BT
+/F0 1 Tf
+8 0 0 8 62.3622 101.0202 Tm
+0.0253 Tw
+(En cualquier caso podr\207 acudir a los Juzgados y Tribunales competentes. )Tj
+-1.7717 -3.5625 TD
+0.074 Tw
+[((1) )-223(Unicamente aplicable a todos los productos que comercializa la compa\226\222a pertenecientes al ramo de enfermedad \(comprendida la asistencia)]TJ
+1.7717 -1.1875 TD
+(sanitaria\))Tj
+ET
+0.15 scn
+48.189 787.246 510.236 11.135 re
+f
+BT
+/F1 1 Tf
+8 0 0 8 52.5834 787.3703 Tm
+1 scn
+0.0241 Tw
+(INFORMACI\356N AL TOMADOR)Tj
+ET
+Q
+endstream
+endobj
+16 0 obj
+<<
+/Nums[0<</S/D>>]
+>>
+endobj
+17 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 34/quotedbl 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 63/question/at/A/B/C/D/E/F/G/H/I/J 76/L/M/N/O/P 82/R/S/T/U 97/a/b/c/d/e/f/g/h/i/j 108/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 135/aacute 142/eacute 146/iacute 150/ntilde/oacute 156/uacute 171/acute 188/ordmasculine 192/questiondown 208/endash 238/Oacute]
+>>
+endobj
+18 0 obj
+<<
+/Length1 8215
+/Length 8215
+/Subtype/Type1C
+>>
+stream
+  LHDNJZ+BUPAQuantaText   7üeüsğş
+ ˆ?‹‹
+ ˆ?‹‹   c   _   ş‘       L  3 J C F S B  E M - P        . $ * '  "    1 N Q 4 H V O { I D U W Ø R Ş   5 T ) Ï × Ó G È & [   K / 0 Z % » ( 6 	 
+ Y X } #      ! o + N   Î éaõ3ãäevÉ;OÑWf=á‹û,ˆ£		1	Ñ
+
+’†Å'zÚ ÅæiõiÊ,·µFgœ\Ãö­½ DjÇBÄ[Çº`¡sûøf²ü2úN¿¿J÷Êú¶øƒúølÁiÓjæeôlÖvºZöYÖ[¶xœl˜f’ÍÊ«ÈÈ×Ö±í‹÷‹÷6L÷ûÃN¦2™û‹\4‰‰û\`‰‹iŒûCŒû©û©ûªŠû©ŠûB÷<ù÷eËÉT Æ¥]¯7¹û	–n•r’z¦F¡Ušj÷Pı¢C¤Œ²Œ²ŒÄŒª‹‹÷\ï,ûP*l:PPUU?o-~o‹ŒdŒuh‹^ûK÷Ğwû8ûB÷8‰û†û4şk÷4ø‰÷Î'û4ùÓ÷2¡ÎxŞì‹÷1÷Ã÷æâ÷¶÷÷<÷%jöLÒÔI)°û09s\D]lc_mVûHÚ­ÍÎÂºÅÍ¢Ö÷Ûa8¼ªXšI?ûw+e>ûFûDû'#F˜¤nø1ú@÷UPûûlû	û1"Ğ÷[}´‚ÅŠÖ÷u÷ƒ‘÷‘’–³Œ§š÷
+jêKÓŞA µûûû eB:,5Zûû;ûA³ûÚ24Ú÷^÷-÷÷§Ã÷%ø˜ƒûFûZ†ûj¼°”¦œ½¥¶°°ÈÇÕ©ã‹î‹Õ`¼7¨Y›I>ÖùKús†Œ…‹‡Œ}Œ}Œ€‹>‹CtJ``ndalX‡÷Dû0şk÷4øàÜ¦ÏÀÁ¾¾Ë¥Ú¶®†‚¨øúŸŠÊ‰Á¸ÛŒçèŒï‹÷‚åzÆ°x«s¦TÈ,©û‹û‹û
+n$TûÑ÷÷®÷ÚÄzl®®lœXG!DN\û%t^<*TZ4û7¦DÂTWÀÎpŞ÷ õÑ÷Ò•”š“˜‘ûˆ÷0û:ø4ˆ8rC_PSAAe2‹N‹X¢g¹l²{¸‹¿‹÷-÷×÷t‹¶‹¿ˆÆˆø‘ú'û2üæš&0“?û%ûeB:*2Yû ûPû¢ ¹<ûÍ÷Q÷/ÕÍ¯Å½ª´µª¾›¥—¥’¦ûˆ÷.û2øiF~JtRûY2Nûû9¸äYfÌxàò÷«óËÔÔÌè¯÷äÔxÆûK÷Î'û4ùÙ÷4÷¼ú÷…%/‡=oZ‹ŒIŒl[‹M÷‰÷‹÷)÷÷QÉ‹òŒ÷%Œ÷
+÷	ÖûBŒûCû©Œû©Šû©û©ŠûCùnø‡øÑú‚ûÔû5û;ûàû8³ûÚ4.Ş÷\÷4÷#÷°ÔÛîå¼÷÷M÷Şû6÷9ûÖŒ$÷ã\.Á²IŸ4"8}@qKûW+Jûû	3¼ìUbÔvå÷ òà±ÍêÂãº÷û÷Š÷oûûìÏ÷>÷ìù=øq1±ŒÌŒÍŒÎŒÊŒË‹Õ‡Ş„÷†û›ûqˆûEvıgè–ÚÍ‹÷ßpWÆÊTª9"0n@TSJJ.jû%+²5ûpôğ|ì÷
+ò¤½ã÷ØÏ÷÷<÷iòJÔà?û
+µû1jZˆ‡NxŠù=úî÷ŠFBŠ@C"ûŒû.¶¼¸¼¹¼ìóâïØìÙìÀ×¨ÂÆ÷¨ğ‹ê‹õoŞUÇFØû±û=‹0‹ûyû)jû'º÷ö£ğòÙs^¿À]¥G4%Vû"ûZJ0&ûûkiûû<7_Zû÷ç÷¿†„÷—û÷Ş÷"û*û2÷*ù=ùæù¦Ï™Ã©¸¹ÊÌ«à‹ö‹÷yû+÷û¿‹û½‹û*û‹ûz‹>G°R®V»bÇrª¦‚£ˆlˆlnû1I;ûû@û2Èû÷F\Şór÷÷ó£»Ş÷ÑÈ÷÷1ËÅv¿hàKÉ2±l˜l”oûLøï÷Yî0ûHûS-+ûO,?£¼UR¿mÔê÷Eîã÷Z†ı*ôßlNÈÆQ¨;*0r@ZULQ3jû&9¥¾RMÃkÛôê¤Ö¾ÄÌÆà¬÷ù=ù.ÅûPû&3ûB'?ûdû4ûKû	œû­"³ûÄ)ÕFä6÷`÷‹÷O‹÷"âî÷Aİ÷%´÷9‹÷N‹ÜİxÜn÷WõEŞ+÷ûÄû)‹û÷-÷4ûAÖ¸"¢û
+ûûtû	` ûGAû	0û/û,ûâ÷AB]÷s÷÷÷1­÷Ï÷÷ÔóÌ÷ù=}ø¹û ú'û>ı%ş/ûù1üB÷2øD÷ ıÈ÷	øù{ı{«†÷CŠ÷ª÷©÷©Œ÷ªŒ÷Cûa‰ü¿ûDü¤¼ûeŒûCŒûªû©û©ŠûªŠûC÷.‡¶ÚûAµ-€ø*ş4÷²ã»ôÄ÷°ÛÕ÷1¾÷¨Ê »½÷Î÷%ß÷C†ûJ÷.ù9ç÷€<û?û*bûûaû,Ü÷7.Oôl÷÷/ø ÷J÷Zø÷1÷mP÷÷4´ûû û,ûwûCU"û	ûûGûSû•ûÅûN÷	ûû ÷÷ED÷z÷7÷-©È÷!û÷ñ÷CŠ÷©÷©÷©Œ÷©Œ÷CûDûCŒû©û©û©Šû©ûC÷D÷ªùö²9Šû‹2Š`‹`1‹Œû8ŒûCŒû©û©û©Šû©ûC÷@ù6÷æĞÁˆˆ²÷û-Š‹FûtŒø²ŒÈ×ŒåØÔÓˆˆÒû÷àùŒû,û2÷,ü\û,û8÷,øçİ<÷z5÷‡4÷“.÷¨8÷‡F÷gpŠkŠl‹nnllŒŒq|XvPvJ‚srCp>q>m5n5NûK"ûµû#ü÷H÷Fø¢ø«÷Bü¢÷Fıìù÷‚ù<÷{ı<àùJ¾ŠggŠknyüŠú>÷'øÄù=ùWù–Ü Í«ÀµäÓ¸å‹ö‹÷Vè"ÈD´/ û‹2‹!|ûnû¶æé¡íåÒs]ÀÀ^¥L?-X=(PB`5r*†$î‰İ{Ër÷WË2‹û‹.h?FTJX8p)‹V‹L“Gœ`•b™gœûp÷÷|ô÷ô¤½â÷ÓÉ÷ ÷$÷63÷
+ûAÔf›d•eù=úØ²Š6%Šû& 5*4ŒŒCû÷”÷`÷¡Şü˜úÇ÷<øNø+÷BŒû©û©û©Šû©ûC÷>Š÷5Š÷“÷“÷“Œ÷”Œ÷5›Œ›‹œŒ»°Œ¦÷cò*ûTûj2KJRR>n-geh‘&°¹…Â‹÷÷¶áâââ¶÷÷÷5T÷û ÉµCû  ûtûˆˆûWúÛ8ù.ñpÜWÆËR;«(2;nSH`fgYtO~Îm¾a°Q¾A¥4‹;‹AqJYajg^qT÷Pû(şk÷2øÉØ Î´ÅÓ¾Ï¯àãÉb:® Z–LAüË÷4øËØ ÎµÅÒ½Î®ß÷"Ò$û_üÍ÷4ø÷Îúkû4úJ÷4ø‡vÛİß÷+÷Ã÷æáö¶÷÷2÷	uéaÓ÷JûÃû*3;qZG^jd^nUû~ä¡Ö·ÈÔ¿Õ¯ë÷Ú_6¼¬Qœ@3û r*[9ûG%Oû9G˜¤Xøùş“¬/ûœûûûhG=DMf5": @´J¹BòC÷5G÷XÛZ³`ºZ¢M‹E‹0dG?`QkDz;‹û‹û°!Õû>]ô÷s÷'÷í¢ºŞ÷ÎÇö÷%÷lãNÍ]¾7½û
+¾)¶G«j¡.È[Ú‹ì‹à­ÊĞ²¿©ËšØ‹÷‹ópçVø7ú'úm‰`h‰r}ne’a“[`jûû`66..[ûû1û¡+·?&ÅæW÷ÚÒ¤¾ËÀ¶°Â Ïû·.s;^L<S9b$û+¨ÄJû'aĞõu÷%÷î¬ÎÕæŞ¹÷÷1úsû2ü_:w?dH0VA].0I·äeuÀËÔö§çÂØèÎæº÷Á¾ƒ|»ø™úŠúkû4üy&p2XB;R=b,ûAÅ÷m€µ…ÉÜ÷3÷>÷Jû3‡ûoˆûUû9<’Jš[˜_¢a«hÉEàg÷‹ê‹İ¨ÑÅº²¯À¤Ì—û{÷(ø¢ú’ù*òpÚXÄĞM-­û3:s\F^ld_lVƒ÷Fû,şk÷4øäß¯ÒÓÅºÄÌ¢ÒëĞfDµ§[™B.Vû‡‰û<‹2÷4÷¦ùJÅû*û.÷*÷.şşR8-m&ûT*å÷Gô¹îèæÑĞæÅ÷¼}øû•ûâ.\;VLSûûFûû&§9ÃN?Ñ÷d÷-÷ñ¢¸Úø¢ú’ù*ğpÛXÄĞN,®û3;t^G]md`oWùû4ùÙ÷4øâØ§ÌÂÂÆÆÓ¨à÷:Ş*ûTüŞ÷4÷Âùö÷D[",r9û/½ïScÒvâñ÷	©çÆÎÏÇß­öîçt^à÷²,!ûû"fD=*3Yûû?û=³ûÚ24Ø÷_÷'ö÷
+¨Ä÷ÄùB÷*hJHyL@X¦Átz±ßŠ÷‰÷÷§÷ëïûê÷ËûnûË-'ëü½&¡>¶[XºÓqîØß›ªä÷“ùoúkû¯ıìû˜ùìû<÷æşk÷H÷îúkø‡øÑú‚ûÔû5û;ûàû8³ûÚ4.Ş÷\÷4÷#÷°ÔÛîå¼÷÷M÷Şû6÷9ûÖŒ$÷ã\.Á²IŸ4"8}@qKûW+Jûû	3¼ìUbÔvå÷ òà±ÍêÂãº÷÷dùDû¹ü<Õ÷èø<ø…úuúqyŠw‡xˆT„f†~‹‹yu‘IœB”?‹û‹ûe:A'.Xû"‹ûQ‹û¢û ¹<È ñU÷"‹ğá­ÎÒ¸µ°Å§Õıy÷4û4úìûŠ@Š‚‚LvQm[O+6Z"‹û‹<¿_òqÉ}Ø‹ç‹÷¬óÍÖÍÖå°÷‹À‹Ó€ævø™úŠúkû4üy&p2XB;R=b,ûAÅ÷m€µ…ÉÜ÷3÷>÷Jû3‡ûoˆûUû9<’Jš[˜_¢a«hÉEàg÷‹ê‹İ¨ÑÅº²¯À¤Ì—û{÷(ûR7û¹ü<Õ÷èø<÷¦÷ôÄİè¨ò÷Uë1ûGûPûû	)KU:[-dü÷ƒ÷àèºÚ¿ÊÄ÷÷Ï÷÷ñnİTÈØEû±û,û#t^8÷Æûû,û2÷,ø!ú +÷ŠûûŠû'ûûû&ûŒŒ û’Øßæ÷Dû4û‘û‘Šûû‘Šû4÷BŠ÷4Š÷‘÷‘÷‘Œ÷‘Œ÷3÷8êã‡…Ú÷\ùaúY¦,(™(û5rZTZ`rN@PœT¬\°VİY÷^ålÇj©n¨ošg‹c‹Oj^Kpd{\‚V‹û‹+¤?¼‰ûhŞõx÷÷ä¦ÁÈÁº¦ÊÜÅ|¾n·fÂ8¾û¹2«Nªn¨m©{¯‹¶‹Â§²Â£­šµ“½‹ì‹ãvÜbùñ8çŠ÷&÷&÷T÷T÷A÷@÷Œ÷ŒŞû?üşıËøşû=&Œû	ŒûŒû@ŒûAŒû‹,‰7‹GŠû7‰û/÷=ùSùÎıS÷<ø1ú@÷UPûûlû	û1"Ğ÷[}´‚ÅŠÖ÷u÷ƒ‘÷‘’–³Œ§š÷
+jêKÓŞA µûûû eB:,5Zûû;ûA³ûÚ24Ú÷^÷-÷÷§Ã÷%ø˜ƒûFûZ†ûj¼°”¦œ½¥¶°°ÈÇÕ©ã‹î‹Õ`¼7¨Y›I>(úû¹ü<Õ÷èø<ø¢ú‘ù*òpÚXÄĞM-­û3:s\F^ld_lVƒ÷Fû,şk÷4øäß¯ÒÓÅºÄÌ¢ÒëĞfDµ§[™B.Vû‡‰û<‹2÷4|‡FUIgBZB°/°.D]42W$3ÀO§¬ª¦¬Ÿ¤´°—®ºÑxgêfëÒx¹âİºêÙûK÷Îúkû4şk÷4÷7û¹ü<Õ÷èø<zù6á¡L@–6û[&ûûuû”''ïıà÷4ùà÷àïûà÷y÷BÏâ÷ÈÁyi¸øúŸŠÊ‰Á¸ÛŒçèŒï‹÷‚åzÆ°x«s¦TÈ,©û‹û‹û
+n$TûÑ÷÷®÷ÚÄzl®®lœXG!DN\û%t^<*TZ4û7¦DÂTWÀÎpŞ÷ õÑ÷Ò•”š“˜‘ûˆ÷0û:ø4ˆ8rC_PSAAe2‹N‹X¢g¹l²{¸‹¿‹÷-÷×÷t‹¶‹¿ˆÆˆ–úÅû¹ü<Õ÷èø<øú)÷†-*ˆ,‚[‹Œ8ŒLZ‹løË÷³ÖÚ†„à÷ü¢øœ÷³Úáˆˆê÷ıeŒFŒûŒûŒû‹*‹Vû›QŠ"‹û(Šû
+ŠûŠAä÷¡÷nˆˆ÷;÷ªùì÷	üöƒøğù²×ı–ûøÜ”üóı±9ë÷,÷,Š÷+Š÷,ëù=øù	©±¬©¯¢Î·Ô¡Ù‹à‹Ğs¾]ÈTª5‹û‹ûi2JJPP>l0‹û‹*ÓN÷$eæwò‹÷÷¢÷º÷ Â÷Şê÷È×¶Ö Ö‹®‹¸ƒÁ|÷–^]‘`OL€wLû#^û95ûûû)QûT‹ûy‹û<«û!Ìûàû(÷@÷N‹÷#‹÷·ããáá¶÷‹÷#‹÷iòJÔBÜ ´û‹û!û	]22<øœùÅüiûøiûK÷Ïwû8ûB÷8û5û†şHŒûy'iPKfOj;IU›ªfûsÊÒ~Ú÷èÆ÷
+¾ªÖ›ô÷úPùñ9÷CŠ÷©÷©÷©Œ÷©Œ÷Cû03Œûû+ŒûYŒûDû-û#SB4ûS÷»û%÷uû	÷Iû	÷J2÷2÷RâûkŒûŒû,Xû©û©Šû©ŠûC÷+ŠØŠô÷÷SŠ÷S÷S÷!ˆæŠ²Š±‰¦š÷jûÚõû5÷Éüj÷Oû°÷cúù”Åû\û2W%ûûûFûUû–ûƒÆûQ÷ûû÷÷:G÷i÷P÷+Àô÷÷'÷Ô÷`÷£Ô„ÑÌr÷Y÷DÛû÷û?Ëûs‹û÷U÷Cû!ÜÄ*§ûû3ûaXû6(û'4ûXû#ûHûØ÷-4L÷k÷÷6÷/¨÷Äî÷"Ş÷Ò÷TøùßúkûæıìûÑùìû<ø*şmûMü@÷:øò…ùÛ÷CŒû¨û©û¨Šû¨ŠûB÷¡÷2…¼‹÷w÷IÏ÷÷÷÷Ï÷O÷‚÷Ùû÷iûyñ»ûû)£ûLrB‰ŠûŠ+@‰X÷>û÷Š÷Š÷,÷9÷Œ÷&Œ÷÷Ñ”èææ÷Y÷&_4ëö*Àû2ûj‰ûRZû+*ûû&û(QûS-*–*úù”Åû\û2W%ûûûFûUû–ûƒÆûQ÷ûû÷÷:G÷i÷P÷+Àô÷÷'÷Ô÷`÷£Ô„ÑÌr÷Y÷DÛû÷û?Ëûs‹û÷U÷Cû!ÜÄ*§ûû3ûaXû6(û'4ûXû#ûHûØ÷-4L÷k÷÷6÷/¨÷Äî÷"Ş÷Ò÷T÷ƒù6û¸ü<Ô÷èø<ù…öùiû*ü·û`ût$‹ûZû&Ù÷12Nöl÷÷6ø!÷L÷[ø÷-÷hG÷÷>¶ûû$ û5ûuûAV"ûûûGûTû•û…ÆûP÷	ûû÷÷AF÷uæî– ÷ Î˜ÉÂ¡ùÛy²ü…ûƒû„û€1~R~StXl`M5&_û‹û ‹&¾Pòn¾uÍ€Üw÷€÷j‹÷¹÷ğû<ûcû°ûa•û”û—.šLšM¢QªYàû÷)D÷i‹÷ß‹÷K÷J®÷ÿ’Ë÷÷3’÷c÷M‹÷8²@ømXèaémëR÷En÷<‹÷3‹÷#¥÷0¿÷=¬ö¶õÂôû"¦R1],j+LûIkûF‹û@‹û5¦û;Âû;°û½ Ë(÷ ¤S÷'¾(³*ª/ÆûH©û;‹û*‹û'qû3Xû:j ] T%÷!rÆæ¹é­ìÉ÷Eª÷E‹÷D‹÷v÷"c÷'d÷!Q÷A÷
+÷´ú)û!÷Oû÷<"÷)â÷÷÷4÷÷Uû6l\ZAZAZAZAl]mº4÷=÷Lçû>÷!ûP÷	û3æû0ûûû@û+ûc÷8Û÷	è÷"ô÷;®Xìû"ßûĞ ÷>ù°óúkûeıøû®ùøû$û¦ıøûBùøû8÷€şk÷R÷–ùÍ÷˜ıÍ÷N÷§úkıá7û¹ü<Õ÷èø<øXù]ùqËÇ¨ÃÂÒÑ¯ç‹÷‹÷GC÷û#»Wœ>”*‹}‹ûˆû…ˆúN÷H÷‚~ô‹ä Ò´÷ÊÁó÷#Ò|ÍpÈlÏ\¼P©m›_•Uü	øú¢Œ°Œ¯ŒÂŒ©‹‘‹÷bò,ûO7tF_ZSX?n(û_%Ÿ­‹ŒºŒÈª‹ïØr[ÁÆW¨='ûO#-ûckF”%ù=úFù½hjdodxAf@xC‹#‹<¸YåiÉyÑ‹Ù‹ò«ŞËÌÆÆ×©æ‹÷|‹÷û6‹ûÕ‹û‚bûT<û"û@ûGû)@A™¨GûwÚ×€ÔÊÆ• Ã÷¸ìãÔ÷ä÷3·÷`‹÷‹‹øû;÷Zûß‹û%‹û
+_6689aû‹û‹%¡/¸>Ğû÷ N÷'‹Ù‹ÙœØ¬¾ ¹©¶±ù=ù’²ûûôûû÷×÷#úÉ÷0û÷àùŒû*û2÷*ûüûûìÑ÷>÷ìC÷µÅû5:7û;9ŸJ²`]µÈsÛÒÃ°´¼¸¤Ïç÷;:Şû5÷Xü·ü\ø`÷êa„e€nPs]lJRa¡¸rx®€¸Â÷¾Êñò¾Kû‰gø Ûü6Û¡ø6ûÑ‰ü6Û¡ø6ø¨úì÷J\ûBû%rûû'û´Ü2 íT÷ ÷J÷¡í¸Ü¼åÖÍïµÌ¦Ï™Ò‹ß‹ÔyÉhÔc¯M‹<?¡NG–Fû,u`?*TY2û0¨>ÄRZ½ËqÚäÚ¤¾Ğ»®±»¦Èû~÷	‘ù>÷Xà&Ä»6"£ûû<û[,!ûûKû8ûfûM¼û)íû û÷÷5M÷g÷÷$¤¼÷+ûùYŒn‹t}û_%4NfVLwHKX¡¶il³z½Èğ¸Ñä²¢ÀË–×ÅÉtÌ÷ùVù¹ı!ûù!û÷B²Œû+Œû‚û_ûñŒû’‹ûy%iP@`Ed.HKŸ²S—ûÂrØ}í‹÷ğÀôÉ¹Ù¢òŒ÷ø¤Œº‹İ÷ê÷"Š÷„øšùendstream
+endobj
+19 0 obj
+<<
+/StemV 0
+/XHeight 0
+/FontName/LHDNJZ+BUPAQuantaText
+/CapHeight 2046
+/StemH 0
+/Type/FontDescriptor
+/Flags 32
+/FontBBox[-227 -234 992 999]
+/Descent -479
+/FontFile3 18 0 R
+/Ascent 2046
+/ItalicAngle 0
+>>
+endobj
+20 0 obj
+<<
+/FontDescriptor 19 0 R
+/Type/Font
+/Name/F0
+/Widths[253 0 300 0 0 0 0 0 281 290 0 0 250 279 250 359 650 650 650 650 650 650 650 650 650 650 250 250 0 0 0 451 577 608 538 648 727 498 453 685 738 256 256 0 462 901 738 749 516 0 559 507 511 727 0 0 0 0 0 0 0 0 0 0 0 506 562 465 566 519 309 522 574 228 228 0 228 852 574 561 558 560 354 415 345 570 442 706 458 505 453 0 0 0 0 0 0 0 0 0 0 0 0 506 0 0 0 0 0 0 519 0 0 0 228 0 0 0 574 561 0 0 0 0 570 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 282 0 0 0 451 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 371 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 749]
+/Subtype/Type1
+/LastChar 238
+/BaseFont/LHDNJZ+BUPAQuantaText
+/Encoding 17 0 R
+/FirstChar 32
+>>
+endobj
+21 0 obj
+<<
+/BaseEncoding/MacRomanEncoding
+/Type/Encoding
+/Differences[32/space 34/quotedbl 41/parenright 46/period 49/one/two/three/four/five/six 58/colon 65/A/B/C/D/E/F/G/H/I 76/L/M/N/O/P 82/R/S/T/U 97/a/b/c/d/e/f/g 105/i 108/l/m/n/o/p 114/r/s/t/u 151/oacute 238/Oacute]
+>>
+endobj
+22 0 obj
+<<
+/Length1 5787
+/Length 5787
+/Subtype/Type1C
+>>
+stream
+  KHOYVO+BUPAQuantaBold   7üüg¬ä
+ ˆ?‹‹
+ ˆ?‹‹   c   _   Ä‘  •    /  4 P M J D U V E  F * O T Ø # G B S % Q 5 N H "        - & ( $ » / 1  6 3 0 )  
+ C . ' 1   Á(B¢çYÓÔwÄà Ë
+¸+š	#	Ì
+:
+Y
+h
+ôšÉl›/·1àn
+# bÿq‘ÙVçkû0øQÁü ú?¼¼_÷¾ú¡øpúY¤²6ûû3û+ûjL2(DX#ûû¯,ÒBÀVàW÷]òbÑh±pÃb§W‹N‹FkVNh\pN}D‹û ‹#§*ÄjŸnvû°œ ¦ğc÷v÷‹÷/‹÷®ìÑ÷ÜÃ÷‹÷!‹÷päXÍ]Æ6Àû¹û·>­g¢J¶iÁ‹ÍÈ¦¹À©¦¹Å˜Ò÷ôjKëøÂøğú©ûòûDû@ûéûÿ÷DûK÷ó÷ó÷C÷Kø÷çûD÷>ûóûJÜÈhG´¬T›=+2@tQ.fH[.û-=÷÷†ì›×«ÃĞ³È­İ2ø@9û»ùÇ÷»2ø5åû¦û»÷¦–û^û»şˆ÷»÷ñú*÷š`:1u,<I¡¶\MÄkå÷è£Ôº¿ÆÀÓ¨èäàuaÛ÷c·)û
+¡ûû!û	\0022^ûû6ûE´ûİ01Ü÷]÷+ö÷£¼÷ ÷+ù’÷isOR~X6VªÈxxÉÓÜÜô–÷÷Ã÷>ûÃ÷Çû^ûÇ-û>éü€ûh÷ ÷sÔğ˜¥÷øçúìúˆû»SŒ|‹FûŒû‹ûv#dFDbPfBK\©Èqy´Õô÷E÷4•÷#û»w‰(‰û+ˆû€‰û‹ŠB’N™^˜b cªjËDåg÷‹÷‹å±ÓÖ¤¥¦™¦™ûF÷­øåúê7û»üÕ…Œ*Ÿ6•F‹ûûe@9#+Vû(ûYûD°ûÕ8?Îèd÷õå°ÕÖ°±¥¯˜®ûa÷·û»øo@|HnUGfPh=U\œ®fRÁnæ÷÷¨ëÄÎÆ¾Ğ¨àÊ½x±ø‡ú±÷¯t‚k€f€ûgû x1‹û‹5¾fò¨„´ŠÁ÷—÷~÷c÷Œ–‹‘Œ÷låNĞé8ûºûCû,ûb:2(2Xûû<ûCµûà.+â÷Z÷=÷	÷±÷¶˜¯˜§˜ûiø·‡ûûˆûke‹Œd®“®š¬¶ğ×½÷‹æ‹Ëb°;œf•_]|øu¤÷‰÷HŠ÷‚Š÷"‹¸ºŒ÷Œ÷x÷@÷Œ£ûÜsŒûŒû@Œû…Œû‹jlŠû$ŠûŠûHŠûr÷ÜøåúêùF÷pàWÆÎP1¬û
+"/hH?qtur|uƒ÷û³şˆ÷»øö¦ÜÂÂ³³»ŸÃ÷Å&û[‚‡üˆ÷²÷ÓùÜúzªûû›ûû‘û&û]HO°X´SáY÷dŞsÂq¥r¡w–r‹q‹dsl]xj}^ƒX‹9‹7œ:­l˜q—|–‡ûWš„ ‚¦ƒîm÷{÷‹÷‹í¨ÍÆÊÃ«Ø‹ì‹Ì{ÂmºbÊ/¾û³:¢S£r¢u ¤‹¨ÎÇ¬÷÷èr\ÚøÂøğú©ûòûDû@ûéûÿ÷DûK÷ó÷ó÷C÷Kø÷çûD÷>ûóûJÜÈhG´¬T›=+2@tQ.fH[.û-=÷÷†ì›×«ÃĞ³È­İ÷ùyû¹ü6÷÷ğø8ùùÿùxÂ–¿¤»³àÒ¶ì‹÷‹÷:K÷ûÃS¤8—"‹ûŠŠûDûˆX]cŠniıR‹‰û÷Šû_Š8Nh÷šÑ÷š~÷#‹÷³ÚÚÍÎ¬áôàw×fÏrºf¯^¦h Z—Rü4øªŒ’•‹šĞ¸¡÷+Ö?û)DyRhe`dNu>eTdtŠŠ‹‡‹‡ŒûE”–‹Œ˜›™‹Œ–¸¤‹Œ’š÷9Ş:û4HzVkh`dFt,{^D{Œ€‹ˆŒÈùv…€Xš?“*‹û‹ûû‹ûƒû+û>ëı±÷»ù±÷¯÷>û¯÷N÷3ÅÚ÷	À¹{n³øhúm†÷5ˆ÷‚÷ÏŒìsÕ\¾HÔû¯û9‹û%‹ûnûRû[Ğ÷÷­ìÎº~r§¥t˜dW?ˆ‚‹Œ\VVû ûhG>CLf6%2§@ÃSVÀĞpŞßÓ¦ÂÇ ¯¶½Ğ“û]÷¹ûÃøF†1mDWZdf\xX‹c‹g™p¦n¨|±‹º‹Î¨½Å¬¶¤Ä—Ò‹¢‹±‰À‰÷5ùªú˜Œ€ƒ‹‰09s\Faniithƒ÷,û³şˆ÷»ø¯ä¤Ñ½¼¶¶Á Ì¶°…ª‰“‰Œùş÷.©ŒûŒû@Œû…Œû‹jlŠû#ŠûŠûGŠûr÷i‰’‹—ŠŠœŠ¨‰¶Š÷ˆÉˆ–‹÷s‹÷KÓ÷#÷#÷#÷"Ò÷P‹÷~‹÷Yb÷0;÷Oà-Ëû¶"¯û"ûE‹c‹û‰ûB‰l[‰‹L÷ËıeøŠØ“ÏÆ‹÷ñjJÒå:¸ûûQûCaû9.4> ^ûGF“HøßøBúˆû½ú9÷»ø~rÜİ~Ş÷÷ ¶ââööÀ÷)÷S÷;g÷DÜÖI-°û
+û,e@>qruo|rû¤ÛÌ¯¼À±¿¦ÍÂºyh±ÃX§6û(u3bC-U>[+PZ• gø®™Åüà…ü×‘û‚’çâŞ¯Â²¥‘|CŒûû8Œû&Šû8ŠûŠûHŠûr÷3÷6¤Š÷Š÷HŠ÷Š÷8‹µŒòŒ÷9Œ÷ŒÓš¦²Âõî‡„èŸ¤ùLÜzĞjÅéU0ºûû,_4Ftnxkl…¦¦|¥Sê/»û‹û‹1bH<toxm€pƒ÷@û­şˆ÷µømöœİ¬ÆÆ­¼©ÊÄ´nT¢¡W–5ûüm÷µømöœŞ¬ÅÆ¬¼©ÊÆµnR¢¡X–6ûüm÷³ø¤ù©ú’š8>“Iûûc>6&0Wûû@û1±ûÖ5>ÎádôéÛªÊÌ¬«¢«—ªûH8sE]XSY>n'08š©Dr–w•~•û‚›„Ÿ‚¢„èn÷{÷‹÷9‹÷°ŞÖà×¶÷‹÷'ú¯û³ü”A{JmVFcShGO]¥¿nqº}ËÜô¤â¼ĞÕ¿Î°Ü´°…€¬ù—{¢d÷P÷BF÷dX÷(oãû÷ìûø	5ŠB‰R‹RAŒ6û-üt4û zWm0KûH,ûœaûƒt÷D÷0÷!øYøm÷üY÷:÷:şù*÷KøÃ“÷JüÃù=ùàÃûmüû#û~÷Ñ÷&û$÷¯ûø÷cûqûw÷qù=¡÷uˆ{Š‹tŠû?‰h6ûû2±²°¯®­÷]÷W÷÷)ÆóË÷«÷‹÷‹÷•û>÷ûå‹9‹û#vû\d‰û”Æ÷÷	¨õ÷Pé>û+.V #ûG>ûûû2û BJIOVXûqã÷÷X÷*ö÷+†„÷Wù=ù£ù¥¾˜º ¸§÷	ÔÅî‹÷‹÷#DñûÇ<­+œû‹û‹û|ûoû]³õìŸãÌÂ}r¸ÊgªSC3SDûXDk<w6ˆû:÷Šã~Ætğd¾B‹%‹-dE?`VmK{F‹X‹K”ATšb—t–ûkn÷	÷|÷÷)÷¨Åñ÷ÒÊ÷÷&÷Xï&ÓQ´G§@šù=¶øâû!úûÊı
+şûYù'ü÷±ø÷ü<÷aü/ø/øàù=ø§à³Œ ½‹ÚâŒÅ‹É†ÌƒŠš”ˆ÷†wŠ‹r~qŠ‹jŠHJŠQ[)Šû ,ŠLı÷ •Û¿‹÷añ7û;*dC@`nZI|>?:•Ÿ9h”r‘ûmm÷÷{÷÷÷¨Äğ÷%ÜÓ÷÷E÷hõF×ä:û¸û;h]ˆ†UˆŠù=ø[ù˜š›ššÍÀĞ¦Ó‹Ì‹Àx´f¾]¥E‹2‹7pEVV[\OrG‹/‹C¶Zá[ár÷
+‹÷+÷b¸÷/æóäÚï¸÷ÍĞ}pÔ÷i¥L>˜6CAtD0n9\FLû2û#;ûj‹û¬‹ûÀûIöûíû÷S÷=‹÷1‹÷¼ììææ¸÷	‹÷$‹÷gôEØ<ãû·û!‹-6uaBt~u{||øú|÷„ -†?v\ŒŒFŒru‹}Œvy‹Š›Ø÷
+Š÷A÷÷=Œ÷†÷@÷Œ£ûÖsŒûû@ŒûAŒû‹`jŠm‹u8‰û$Šû\û?Šû‹^—ÄŞ÷ÅÕ÷÷)ìÈ˜øCú|÷†:.ˆ$|h‹ŒYŒkY‹JøB÷ÚÏ…Å‰š”ˆ÷t…m\?Bûø÷æÕ‰ˆÆ™”Š‹÷q„cJ$&û û?û6zuŒû Œû7û‡Œû!‹hl‰û(ŠûšŠûFŠû
+s÷Ø÷¨‰ì‰ÙŠµŠ£ù®ùwû£üo>j=z@‹û "Å÷IVèp÷÷-÷A¯÷ÔÜÜÓ÷´÷.äÛ~rÒ¼{ÁmÆd÷ÅE¢IšR“J”9-‹ûƒ‹ûJTûûûûEûW‹û™‹û‹ÆûT÷û÷û÷HE÷‹ç‹ó–÷¢Ş›Ëœ·œùLğøNkix†‰ûPûm+‹û2‹û
+ÌA÷Yäq÷‹÷‹÷;±÷×àÔŞ÷ ´÷"‹÷)‹÷kóMŠ÷&Š÷û²ûû&‹ü†ûûüƒû…ÇûQ÷ûû#÷÷NB÷†÷4÷(©È÷÷½ú#ù Şûeû9U!ûûûEûZûœûˆÇûS÷ûû÷÷AF÷s÷Y÷2Á÷÷÷*÷Ö÷a÷§×„Ó~Îq÷X÷CÜû÷ûFÎû}‹ûˆ÷íU È¼7£û	û%ûy#i7û+N!?û(û*Ã÷LVéo÷÷-÷$£÷»àöÉíÁ÷÷$ùƒû¹ü6÷÷ğø8ú%¤Š÷Š÷JŠ÷‹Š÷"‹²´Œ÷Œ÷|Œ÷>Œ÷¢û¨û	ûIû‡ûh‰ûBŠû{™0÷*ûM÷ğû¥ø·ü4uŒ Œû5ŒûyŒû7ŠûIŠûŠûSŠûq÷¨ˆ÷%‰÷E÷c÷›Œ÷AßœÊ$÷Iûã÷ÁüÅŸeø#ø¸÷.©ŒûŒû@Œû…Œû‹jlŠû$ŠûŠûHŠûr÷Í‡ù‚ø‹“‹šŒË°–ÔÅxf´¸c¢L:*m;RR]]RsKmmpŒŒkZaŒkŒy¸½…Â‹÷‹÷	¼îíëê»÷‹÷%‹÷jîLÑ8æû%¸û`‹H‹û‰ûQˆflŠ‹vûø ù¢ûmûw÷mûìûmû{÷múúÍÁPûû…û–‚û.„ûx3qP]"8Vû‹%‹>´\İgÉrî‚÷‚÷!…÷l‹÷¹‹š‹³ŒÌÆûÆPûxû’û\˜û# ûkÅû2ì,ì+÷Z÷I‹÷2‹÷²ìÚ÷ìÒ÷+£÷`œ÷.”÷´‹ø;Æùò‰oÀiİg÷T÷;Q÷Ræ€ws{˜s“o²’¶Ÿ¸«÷ÚÂ÷‹÷'‹ônŞTÈAÜû´ûK‹ûŠû3Š!ˆ\‹agŠ‹qbŒ#Œû9Œû†Œû>ŠûBŠûŠûAŠû‹`÷ÉøÚ÷,¼Œ·h°F¦[®/¸û¤B¥C¤I÷æı· ¤Œ±Œİ Ë¾yj°¹b¢J5:sJ\]^^PtG}EfŒt‹†Œú#ù Şûeû9U!ûûûEûZûœûˆÇûS÷ûû÷÷AF÷s÷Y÷2Á÷÷÷*÷Ö÷a÷§×„Ó~Îq÷X÷CÜû÷ûFÎû}‹ûˆ÷íU È¼7£û	û%ûy#i7û+N!?û(û*Ã÷LVéo÷÷-÷$£÷»àöÉíÁ÷úh¤Š÷Š÷HŠ÷Š÷A‹¦Œ÷Œ÷Œ÷@Œ÷£ûÑüØŠ`&‰û.û/Œ&Œ_ŒøØûÏRŒ"Œû(Œû†Œû>ŠûBŠûŠû/Šû‹O÷ÏùŒÛïŒ÷÷ïŠŠÛı÷Ñû7÷Œü’÷©ø’û¹‰ü’÷©ø’gÆN¥U¤O¢Mâû}·ûh‹ûQ‹ûQbûa;ûkpCnIoT÷œp¨¸§¿¦Åî÷k¼÷v‹÷‹÷_d÷[>÷XiäcÙaÎøßø@7û»ùÃ÷¹£ĞvÜè‹÷J÷Õ÷)áÆñ¨÷÷%÷4h÷
+GØÕJ+°ûû,fC?qruq|r‡û”ËœÂ¬¹Ä´Â§ÑÄ»yi°ÀZ¦7û(u3aB-T;[$\c’˜n‚ƒˆŸ£Š÷÷EŠ÷÷A÷@Œ÷Š÷DŒ÷	£ü‡üştƒü	útüsŒû	ŒûDŒûŠŒû!‹klŠû"ŠûŒŠûEŠûs÷¨‡ú˜… TÖû\òû¤ïûĞûKše÷R™±Ğ÷Kï÷÷÷¹Î÷D£Å—‘‡ş÷§øúIÁ‚bL)4#û<û7zsŒûŒû@û†Œû?ŠûA‰ûŠûHŠûr÷Øù”¶Ëá¾ÙÍ‡„ÁŠ÷i†‚{dJHR6MhŠŠ‹…‹„ŒøEŒ®‹ŒÎßÉŒÈ‹Ô†Ş„ø‚ùendstream
+endobj
+23 0 obj
+<<
+/StemV 0
+/XHeight 0
+/FontName/KHOYVO+BUPAQuantaBold
+/CapHeight 2020
+/StemH 0
+/Type/FontDescriptor
+/Flags 262176
+/FontBBox[-247 -228 959 986]
+/Descent -467
+/FontFile3 22 0 R
+/Ascent 2020
+/ItalicAngle 0
+>>
+endobj
+24 0 obj
+<<
+/FontDescriptor 23 0 R
+/Type/Font
+/Name/F1
+/Widths[241 0 238 0 0 0 0 0 0 300 0 0 0 0 250 0 0 650 650 650 650 650 650 0 0 0 250 0 0 0 0 0 0 694 626 657 744 528 498 705 751 310 0 0 508 895 763 762 585 0 623 550 580 753 0 0 0 0 0 0 0 0 0 0 0 546 604 488 607 561 347 575 0 274 0 0 274 895 607 590 604 0 396 473 391 608 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 590 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 762]
+/Subtype/Type1
+/LastChar 238
+/BaseFont/KHOYVO+BUPAQuantaBold
+/Encoding 21 0 R
+/FirstChar 32
+>>
+endobj
+25 0 obj
+<<
+/Count 2
+/Type/Pages
+/Kids[26 0 R 27 0 R]
+>>
+endobj
+26 0 obj
+<<
+/Type/Page
+/MediaBox[0 0 595.276 841.89001]
+/Parent 25 0 R
+/Resources<</ExtGState<</GS2 14 0 R/GS1 8 0 R/GS0 13 0 R>>/ColorSpace<</CS0 3 0 R/CS1 5 0 R>>/XObject<</Fm2 11 0 R/Fm0 9 0 R>>/Font<</F1 24 0 R/F0 20 0 R>>/ProcSet[/PDF/Text]>>
+/Contents 12 0 R
+>>
+endobj
+27 0 obj
+<<
+/Type/Page
+/MediaBox[0 0 595.276 841.89001]
+/Parent 25 0 R
+/Resources<</ExtGState<</GS2 14 0 R/GS0 13 0 R>>/ColorSpace<</CS0 3 0 R>>/Font<</F1 24 0 R/F0 20 0 R>>/ProcSet[/PDF/Text]>>
+/Contents 15 0 R
+>>
+endobj
+28 0 obj
+<<
+/Type/Catalog
+/Pages 25 0 R
+/PageLabels 16 0 R
+>>
+endobj
+29 0 obj
+<<
+/CreationDate(20070222110746)
+/Producer(QuarkXPress(tm) 6.1)
+/Creator(QuarkXPress(tm) 6.1)
+/Title<FEFF004D0061007100750065007400610063006900F3006E00200031>
+/XPressPrivate(%%DocumentProcessColors: Cyan Magenta Yellow Black\n%%EndComments)
+>>
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000015 00000 n 
+0000000302 00000 n 
+0000000589 00000 n 
+0000000639 00000 n 
+0000001043 00000 n 
+0000001114 00000 n 
+0000001232 00000 n 
+0000026022 00000 n 
+0000005603 00000 n 
+0000006138 00000 n 
+0000006818 00000 n 
+0000007345 00000 n 
+0000025957 00000 n 
+0000026085 00000 n 
+0000026149 00000 n 
+0000035478 00000 n 
+0000035517 00000 n 
+0000035983 00000 n 
+0000044280 00000 n 
+0000044499 00000 n 
+0000045231 00000 n 
+0000045514 00000 n 
+0000051383 00000 n 
+0000051606 00000 n 
+0000052282 00000 n 
+0000052346 00000 n 
+0000052621 00000 n 
+0000052843 00000 n 
+0000052912 00000 n 
+trailer
+<<
+/Size 30
+/Root 28 0 R
+/Info 29 0 R
+/ID[<463FE03DFBB7D7DC2260FA0384722B7A><463FE03DFBB7D7DC2260FA0384722B7A>]
+>>
+startxref
+53172
+%%EOF
